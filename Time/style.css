@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    
+}
+body{
+    font-family: "Balsamiq Sans", sans-serif;
+    background:  purple;
+}
+
+.container-time{
+    background-color:#fff;
+    border: 5px solid rgb(0, 0, 0); 
+    border-radius: 5px;
+    margin-top: 19%;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-size: 120px;
+    margin: 0;
+    cursor: pointer;
+}
