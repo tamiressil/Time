@@ -1,5 +1,5 @@
 # Time
-- Desenvolvimento de um cronômetro 
+- Desenvolvimento de um timer
 - Projeto de JavaScript.
 - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
